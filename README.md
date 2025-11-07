@@ -7,7 +7,8 @@ Please cite the work if you use the code:
 @inproceedings{agnihotrigranular,
   title={A Granular Study of Safety Pretraining under Model Abliteration},
   author={Agnihotri, Shashank and Jakubassa, Jonas and Dey, Priyam and Goyal, Sachin and Schiele, Bernt and Radhakrishnan, Venkatesh Babu and Keuper, Margret},
-  booktitle={NeurIPS 2025 Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from Large Language Models}
+  booktitle={NeurIPS 2025 Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from Large Language Models},
+  year={2025}
 }
 ```
 
