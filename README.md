@@ -1,3 +1,20 @@
+# A Granular Study of Safety Pretraining under Model Abliteration
+## Accepted at NeurIPS 2025 Workshop Lock-LLM
+
+Please cite the work if you use the code:
+> BibTeX
+```
+@inproceedings{agnihotrigranular,
+  title={A Granular Study of Safety Pretraining under Model Abliteration},
+  author={Agnihotri, Shashank and Jakubassa, Jonas and Dey, Priyam and Goyal, Sachin and Schiele, Bernt and Radhakrishnan, Venkatesh Babu and Keuper, Margret},
+  booktitle={NeurIPS 2025 Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from Large Language Models}
+}
+```
+
+> Normal Text
+```
+Agnihotri, Shashank, Jonas Jakubassa, Priyam Dey, Sachin Goyal, Bernt Schiele, Venkatesh Babu Radhakrishnan, and Margret Keuper. "A Granular Study of Safety Pretraining under Model Abliteration." In NeurIPS 2025 Lock-LLM Workshop: Prevent Unauthorized Knowledge Use from Large Language Models.
+```
 
 # Overview
 
